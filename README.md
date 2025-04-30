@@ -1,5 +1,6 @@
 
 # **Tic-Tac-Toe Game**  
+![Tic-Tac-Toe](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoyNnVjdzE1OWJwejVlOHZpOXBxcWFtaDJpM2oycnRzOTI0N2cxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gR92EF4p9XyEHyD2n5/giphy.gif)<br>
 *A classic two-player Tic-Tac-Toe game implemented in Java with a console-based interface.*  
 
 ## **📌 Features**  
